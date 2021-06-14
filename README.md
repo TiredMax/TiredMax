@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋 My Name is Max Mustermann</h1>
-<h3 align="center">I'm German Ethical Hacker and Grey Hacker.</h3>
+<h3 align="center">I'm German Ethical Hacker and Grey Hat Hacker.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiredmax&label=Profile%20views&color=0e75b6&style=flat" alt="tiredmax" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
