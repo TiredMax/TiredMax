@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 Max Mustermann</h1>
-<h3 align="center">German Ethical Hacker and Grey Hacker.</h3>
+<h1 align="center">Hi 👋 My Name is Max Mustermann</h1>
+<h3 align="center">I'm German Ethical Hacker and Grey Hacker.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
